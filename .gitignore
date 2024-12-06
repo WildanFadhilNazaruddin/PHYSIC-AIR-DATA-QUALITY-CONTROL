@@ -5,7 +5,9 @@ __pycache__/
 node_modules
 # C extensions
 *.so
-
+PROJEK/data
+modul_main/data
+latihan machine learning/data/opendata.jabarprov.go.id_dataset_od_17255_jumlah_rumah_sakit_rs_berdasarkan_kabupatenkota_v1_csv.zip
 # Distribution / packaging
 .Python
 build/
