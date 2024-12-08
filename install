@@ -1,0 +1,13 @@
+init.templatedir=
+core.editor=code --wait
+user.name=232153079
+user.email=232153079@student.unsil.ac.id
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+remote.origin.url=https://github.com/WildanFadhilNazaruddin/PHYSIC-AIR-DATA-QUALITY-CONTROL.git
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.main.remote=origin
+branch.main.merge=refs/heads/main
+branch.test/projeck/dataprogresing/linierregsion.vscode-merge-base=origin/main
